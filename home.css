@@ -351,20 +351,20 @@ gap:1em;
 	justify-content: end;
 }
 .category-box#categ-cuisine{
-	background: url("../../tabbg/cuisine-bg.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/Pushkar23js/Project-travel-india/main/cuisine-bg.png") no-repeat;
 		background-size: 100% 100%;
 
 }
 .category-box#categ-monument{
-	background: url("../../tabbg/monument-bg.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/Pushkar23js/Project-travel-india/main/monument-bg.png") no-repeat;
 	background-size: 100% 100%;
 }
 .category-box#categ-festival{
-	background: url("../../tabbg/festival-bg.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/Pushkar23js/Project-travel-india/main/festival-bg.png") no-repeat;
 	background-size: 100% 100%;
 }
 .category-box#categ-culture{
-	background: url("../../tabbg/culture-bg.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/Pushkar23js/Project-travel-india/main/culture-bg.png") no-repeat;
 	background-size: 100% 100%;
 }
 #categ-festival * ,#categ-culture * {
